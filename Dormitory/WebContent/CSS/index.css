@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../IMG/bg.jpg);
+	background-repeat:no-repeat;
+	margin:0px;
+	padding:0px;
+}
+p{
+	font-family:微软雅黑;
+}
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#index_loginbg{
+	margin:auto;
+	background-image:url(../IMG/loginbg.png);
+	width:498px;
+	height:431px;
+	position:relative;
+	top:100px;
+}
+#index_p1{
+	font-size:20px;
+	color:#FFF;
+	line-height:5px;
+}
+#register_p1{
+	font-size:20px;
+	color:#FFF;
+	line-height:5px;
+}
+#index_login{
+	position:relative;
+	top:130px;
+}
+#login{
+	background-image:url(../IMG/login.png);
+	width:118px;
+	height:48px;
+	border:0px;
+	background-color:inherit;
+	float:left;
+	
+}
+#register{
+	background-image:url(../IMG/register.png);
+	width:118px;
+	height:48px;
+	border:0px;
+	background-color:inherit;
+	float:left;
+}
+#reset{
+	background-image:url(../IMG/reset.png);
+	width:118px;
+	height:48px;
+	border:0px;
+	background-color:inherit;
+}
+#index_list{
+	background-image:url(../IMG/list.png);
+	background-repeat:no-repeat;
+	width:200px;
+	height:900px;
+	position:fixed;
+	left:120px;
+}
+#index_list div{
+	width:200px;
+	height:52px;
+	color:#FFF;
+	font-size:20px;
+	font-weight:bold;
+	line-height:50px;
+}
+#index_list_in{
+	background:#798ea2;
+}
+#index_list div:hover {
+	background:#798ea2;
+	cursor:pointer;
+	color: #FFF
+}
+#center{
+	position:relative;
+	left:400px;
+	width:809px;
+	height:900px;
+}
+#title{
+	background-image:url(../IMG/title.png);
+	background-repeat:no-repeat;
+	width:800px;
+	height:68px;
+	margin:auto;
+	position:relative;
+	top:30px;
+}
+#title p{
+	font-size:30px;
+	color:#FFF;
+	line-height:70px;
+	font-weight:bold;
+}
+#table_title{
+	color:#FFF;
+	font-family:微软雅黑;
+	font-size:20px;
+	position:relative;
+	top:20px;
+	width:800px;
+	height:40px;
+	line-height:33px;
+}
+#baoxiu_table_title{
+	color:#FFF;
+	font-family:微软雅黑;
+	font-size:20px;
+	position:relative;
+	top:20px;
+	width:300px;
+	height:40px;
+	line-height:33px;
+}
+#cpwd_table_title{
+	color:#FFF;
+	font-family:微软雅黑;
+	font-size:20px;
+	position:relative;
+	top:20px;
+	width:500px;
+	height:40px;
+	line-height:33px;
+}
+#table{
+	margin:auto;
+	position:relative;
+	top:30px;
+}
+#cpwd_submit{
+	background-image:url(../IMG/submit.png);
+	width:118px;
+	height:48px;
+	border:0px;
+	background-color:inherit;
+}
+#submit{
+	background-image:url(../IMG/submit.png);
+	width:118px;
+	height:48px;
+	border:0px;
+	background-color:inherit;
+}
+	
